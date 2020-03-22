@@ -1,0 +1,5 @@
+export const GET_MESSAGES = 'GET_MESSAGES';
+export const SELECT_MESSAGE = 'SELECT_MESSAGE';
+export const CREATE_MESSAGE = 'CREATE_MESSAGE';
+export const DELETE_MESSAGE = 'DELETE_MESSAGE';
+export const READ_MESSAGE = 'READ_MESSAGE';
